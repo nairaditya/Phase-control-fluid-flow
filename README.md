@@ -1,4 +1,4 @@
-# Phase_control_fluid_flow
+# Phase-control-fluid-flow
 
 This is a repository containing MATLAB codes for the preprint:"Phase-based control of periodic fluid flows" by Aditya G. Nair, Kunihiko Taira, Bingni W. Brunton and Steven L. Brunton
 

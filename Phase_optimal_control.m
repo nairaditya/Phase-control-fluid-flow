@@ -3,6 +3,9 @@ clear;clc;close all;
 % Phase-based control of periodic fluid flows
 % Aditya Nair, Kunihiko Taira, Bingni Brunton, Steven Brunton
 % September 2019
+% Also cite: Monga, B., Wilson, D., Matchen, T., & Moehlis, J. (2019). 
+% Phase reduction and phase-based optimal control for biological systems: 
+% a tutorial. Biological cybernetics, 113(1-2), 11-46.
 
 %% Load data
 load ('Data/PRC_cylinder_blowing.mat');% Cylinder flow (momentum injection)
